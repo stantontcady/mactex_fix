@@ -6,3 +6,6 @@ The script simply adds a new path to the .bash_profile file and changes the (pdf
 
 ##Dependencies
 Given that the TeXShop preferences plist is a binary, it requires the binary plist library, [biplist](https://github.com/wooster/biplist).
+
+##Credit
+The approach for this script is based off of [this](http://tex.stackexchange.com/questions/249966/install-latex-on-mac-os-x-el-capitan-10-11) discussion on Stack Exchange.
